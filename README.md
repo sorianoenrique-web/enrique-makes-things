@@ -1,3 +1,3 @@
 # enrique-makes-things
 
-test
+My name is Enrique, I'm a mechanical engineering student based in Canada.
